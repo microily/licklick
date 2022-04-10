@@ -6,7 +6,7 @@ body {
     font-size: calc( var( --global-font-size ) / 16) rem;
     line-height: var(--global-font-line-height);
   background-color: #000000;
-  background-image: url("img/588042.jpg");
+  background-image: url("588042.jpg");
   background-size: 1840px 800px;
   background-repeat: no-repeat;
   background-position: top center;
